@@ -1,0 +1,8 @@
+.about_part{
+    height: 200px;
+    background-color: white;
+}
+
+.about_part.border-bottom {
+    border-bottom: 3px solid #0d6efd;
+}
